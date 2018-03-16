@@ -1,3 +1,7 @@
+>  文本中使用了数学公式 需要支持latex的编辑器打开如typora    或在网页中引入MathJax.js)
+
+
+
 在 Surprise包里
 
 支持的算法包有
